@@ -1,5 +1,5 @@
 [package]
-name = "zoom-auto-restart"
+name = "zoom-auto-restarter"
 version = "0.1.0"
 edition = "2024"
 
