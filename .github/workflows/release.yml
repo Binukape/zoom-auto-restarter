@@ -3,7 +3,10 @@ name: Build and Release
 on:
   push:
     tags:
-      - "v*" # This triggers the robot when you create a tag like v1.0.1
+      - "v*"
+
+permissions:
+  contents: write
 
 jobs:
   build:
