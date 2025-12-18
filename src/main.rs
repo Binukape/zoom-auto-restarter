@@ -11,7 +11,7 @@ fn main() {
     println!("--- Zoom Auto-Restarter ---");
     println!("---    Binuka Perera    ---\n");
 
-    print!("Zoom Link: ");
+    print!("Zoom Link (Scheduled meeting with a longer time period preferred): ");
     io::stdout().flush().unwrap();
     let mut input = String::new();
     io::stdin().read_line(&mut input).unwrap();
