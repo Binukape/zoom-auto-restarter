@@ -11,9 +11,10 @@ A lightweight Rust-based tool to automatically restart Zoom meetings when the 40
 
 1. Download the `zoom-auto-restarter.exe` from the [Releases](../../releases/latest) tab.
 2. Run the program.
-3. Paste your Zoom link when prompted. (Use the link from a scheduled meeting with a longer time period.)
-4. Keep the terminal open; it will handle the rest!
-5. When you need to stop it, just close the window.
+3. Paste your Zoom link when prompted. It is automatically saved as your default link for next time. (Use the link from a scheduled meeting with a longer time period.)
+4. Next time, press Enter to use the saved link or paste a new one to replace it.
+5. Keep the terminal open; it will handle the rest!
+6. When you need to stop it, just close the window.
 
 Important: USE A SCHEDULED MEETING LINK (WITH A LONGER TIME PERIOD) TO BYPASS THE 10 MINUTE COOLDOWN.
 
